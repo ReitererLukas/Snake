@@ -1,5 +1,5 @@
 # Snake
-The aim is to program a Snake AI.
+The aim is to program a Snake AI.\n
 Current State: AI is bugy you can play it for yourself
 
 Controls:
